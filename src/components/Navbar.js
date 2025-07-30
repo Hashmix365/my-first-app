@@ -28,7 +28,6 @@ export default function Navbar(props) {
   <div class="mx-4 form-check form-switch">
 <input className="form-check-input" type="checkbox" role="switch" id="switchCheckDefault"/>
 <label className="form-check-label text-white" htmlFor="switchCheckDefault">
-  dark theme (in progress...)
 </label>
 
 </div>
